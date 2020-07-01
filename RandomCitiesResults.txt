@@ -1,0 +1,5 @@
+NAME: verg
+======================
+Amount random pressed: 4 times
+First randomly chosen city: Moscow,RU
+Second randomly chosen city: Shuzenji,JP

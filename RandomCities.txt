@@ -1,0 +1,10 @@
+Athens,GR
+Tokyo,JP
+Patra,GR
+Moscow,RU
+Shuzenji,JP
+Paris,FR
+Prague,CZ
+Berlin,DE
+Cairo,EG
+Johannesburg,ZA
